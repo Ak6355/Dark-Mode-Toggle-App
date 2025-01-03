@@ -1,7 +1,5 @@
 # Dark Mode Toggle App :
 
-Explore it : [  https://maihoonprince.github.io/Light-and-Dark-Mode-Toggle/  ].
-
 Welcome to the Dark Mode Toggle App repository! This React application allows users to toggle between light and dark modes, providing a visually comfortable experience for users in various lighting conditions.
 
 The Dark Mode Toggle App enhances user experience by allowing them to switch between light and dark themes. This application utilizes React and the React Switch library to seamlessly transition between the two modes.
